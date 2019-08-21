@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/fjferdiez/Test%20of%20Pipelines/_apis/build/status/fjferdiez.pipelines-java?branchName=master)](https://dev.azure.com/fjferdiez/Test%20of%20Pipelines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
